@@ -1,7 +1,7 @@
 # Crown-of-the-Gods-Stat-Tweeter
 Script that logs into a COTG account, reads the resource levels, rank, score and then tweets them out.
 
-The user will need to supply their COTG and Twitter log in details for the scrip to work. 
+The user will need to supply the COTG and Twitter log in details for the scrip to work. 
 
 An example Tweet would look like this:
 
