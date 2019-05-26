@@ -2,7 +2,7 @@
 Script that logs into a COTG account, reads the resource levels, rank, score and then tweets them out.
 
 
-The user will need to supply the COTG and Twitter log in details for the scrip to work.
+The user will need to supply the COTG and Twitter log in details during the first run. After that the script will remember them for convenience.
 
 
 An example Tweet would look like this:
